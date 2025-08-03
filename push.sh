@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-mdbook build --dest /docs
+mdbook build --dest-dir /docs
 
 git add --all
 git commit -m "new build"
