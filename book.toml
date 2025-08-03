@@ -1,0 +1,5 @@
+[book]
+authors = ["solitary_crow"]
+language = "en"
+src = "src"
+title = "Modern Python Programming"
