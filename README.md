@@ -1,6 +1,6 @@
 # Modern Python Programming
 
-An open and opensource book about modern python programming. The book is availbel at [link](https://mtk2xfugaku.github.io/modernpythonprogramming/) and can also be run and build locally using mdbook. 
+An open and opensource book about modern python programming. The book is availbel at [link](https://mtk2xfugaku.github.io/modernpythonprogramming/) and can also be run and build locally using mdbook. Generated static html files are stored in `docs` directory.
 
 Install mdbook using cargo as `cargo install mdbook`.
 
